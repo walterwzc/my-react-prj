@@ -1,0 +1,63 @@
+.login-form {
+    max-width: 300px;
+    margin: 20px auto;
+}
+
+body {
+    overflow: hidden;
+}
+
+#root {
+    height: 100%;
+}
+
+#components-layout-side {
+    height: 100%;
+}
+
+#components-layout-side .logo {
+    height: 32px;
+    background: #333;
+    border-radius: 6px;
+    margin: 16px;
+}
+
+#components-layout-side .ant-layout-sider-collapsed .anticon {
+    font-size: 16px;
+    margin-left: 8px;
+}
+
+#components-layout-side .ant-layout-sider-collapsed .nav-text {
+    display: none;
+}
+
+#components-layout-side .ant-layout-sider-collapsed .ant-menu-submenu-vertical>.ant-menu-submenu-title:after {
+    display: none;
+}
+
+#components-layout-side .ant-menu-submenu-title {
+    font-size: 18px;
+}
+
+
+
+
+
+.avatar-uploader,
+.avatar-uploader-trigger,
+.avatar {
+  width: 150px;
+  height: 150px;
+}
+.avatar-uploader {
+  display: block;
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.avatar-uploader-trigger {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 28px;
+  color: #999;
+}
