@@ -1,3 +1,5 @@
+这个是自己基于 react，ant design的信息管理系统
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
